@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+  border: 2px solid black;
+  padding: 40px;
+  margin: 30px;
+  line-height: 1.2;
+}
+
+.queen {
+  border-top: 2px solid black;
+  padding-top: 15px;
+  font-size: 22px;
+}
+
+.junior {
+  color: rgb(35, 180, 35);
+  /* font-size: 12px; */
+  padding-top: 15px;
+}
+
+.city {
+  /* font-size: 12px; */
+  padding-top: 15px;
+}
+
+.subtitle {
+  color: rgb(18, 173, 235);
+}
+
+.list {
+  margin-left: 18px;
+}
